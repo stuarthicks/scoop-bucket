@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.0/mrd_Windows_i386.zip",
+            "bin": [
+                "mrd.exe"
+            ],
+            "hash": "91e39f34a9364fc6ad3b792472560c200c3546144a707ff0f7e2a9519f30e378"
+        },
+        "64bit": {
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.0/mrd_Windows_x86_64.zip",
+            "bin": [
+                "mrd.exe"
+            ],
+            "hash": "a0bd2b37a2e5ceb15fb44c4cc2b9d8cec8ad165c123ae6c5f64991603c3d60a3"
+        },
+        "arm64": {
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.0/mrd_Windows_arm64.zip",
+            "bin": [
+                "mrd.exe"
+            ],
+            "hash": "a0f67d77a1dd506df03451d0e6d31f965af73eb4b9f0754f1973a5f79d4a29b2"
+        }
+    },
+    "homepage": "https://github.com/stuarthicks/mrd",
+    "license": "MIT",
+    "description": "Decodes the primordial soup of video DRM headers"
+}
