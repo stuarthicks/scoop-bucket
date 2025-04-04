@@ -1,26 +1,26 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.1/mrd_Windows_i386.zip",
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.2/mrd_Windows_i386.zip",
             "bin": [
                 "mrd.exe"
             ],
-            "hash": "2be4121d651aba19e1c7defd5554a886e53f419aa42308abc9e5ee25bf137c8e"
+            "hash": "6b7721adc715333cef6ca79091cccc6ebc866bb9ca1c7cabc0ecc2fd9ea62f4b"
         },
         "64bit": {
-            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.1/mrd_Windows_x86_64.zip",
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.2/mrd_Windows_x86_64.zip",
             "bin": [
                 "mrd.exe"
             ],
-            "hash": "0a3887e0e34331e71579526d6cf8a5f1f6169d42cee699a3222818375ed74d77"
+            "hash": "517bd5e5e66311c2b7442ff4a8ccec700d2f55dedd0b05f3131da439a7dfe954"
         },
         "arm64": {
-            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.1/mrd_Windows_arm64.zip",
+            "url": "https://github.com/stuarthicks/mrd/releases/download/v1.0.2/mrd_Windows_arm64.zip",
             "bin": [
                 "mrd.exe"
             ],
-            "hash": "c7556ca493c57a4d194514e8ce649decbcefb10163113d1d0f01762bc3b14dd1"
+            "hash": "fc0b00a4b9e5c925695d1d61989cf2957d928e61fb09c1072998879321e39405"
         }
     },
     "homepage": "https://github.com/stuarthicks/mrd",
